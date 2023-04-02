@@ -1,0 +1,5 @@
+git init - It will iniialize the git repo
+git status - It will give the status of files
+git diff - It will show the difference betwen previous and current changes
+git add - It will add the file in staging area
+git commit -m "commit msg" - staged files now go to repo
